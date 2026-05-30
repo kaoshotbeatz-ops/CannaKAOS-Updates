@@ -1,8 +1,9 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Add App Review notes (21+ gate, education-only, 17+ store rating)",
     "Professional new app icon (gradient, gloss, depth)",
     "Add ITSAppUsesNonExemptEncryption=NO for TestFlight uploads",
     "TestFlight-ready: privacy policy, encryption declaration, submission guide",
