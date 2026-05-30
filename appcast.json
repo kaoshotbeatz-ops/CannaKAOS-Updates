@@ -1,8 +1,9 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Detailed-tier badges + filter: surface rich-data strains first (transparency)",
     "All Features list in About + full untruncated changelog in updates",
     "Match Me strain-finder quiz (Tools)",
     "Grow Journal tab + trademark/legal notices",
