@@ -1,16 +1,16 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
-    "Dedicated CannaKAOS-Updates feed + download link",
-    "Dedicated CannaKAOS-Updates feed repo",
+    "Rename app to LeafLore (drop KAOS); dedicated LeafLore-Updates feed",
+    "Dedicated LeafLore-Updates feed + download link",
+    "Dedicated LeafLore-Updates feed repo",
     "Fix release.sh PATH so gh is found during publish",
     "On-device AI engine (model-ready) + full documentation set",
     "180+ strains, Terpene Explorer, Dosing Calculator (Tools tab)",
     "Public update feed via KAOS-Updates; updater points to public raw URL",
-    "Live updates: appcast served from GitHub raw; downloads via GitHub Releases",
-    "patch.sh now auto-pushes commits + tags to GitHub"
+    "Live updates: appcast served from GitHub raw; downloads via GitHub Releases"
   ],
-  "downloadURL": "https://github.com/kaoshotbeatz-ops/CannaKAOS-Updates/releases"
+  "downloadURL": "https://github.com/kaoshotbeatz-ops/LeafLore-Updates/releases"
 }
