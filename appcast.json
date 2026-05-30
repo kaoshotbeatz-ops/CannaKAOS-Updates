@@ -1,8 +1,9 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Grow Lab wired into tabs + More hub (setups, gear, climate, diagnoser)",
     "New Grow Lab: setups (tents/hydro/outdoor), gear & methods, climate targets, problem diagnoser",
     "Surprise Me wired into Tools",
     "New: Surprise Me \u2014 random strain spotlight + cannabis facts",
