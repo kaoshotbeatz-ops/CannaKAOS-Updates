@@ -1,8 +1,9 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "All Features list in About + full untruncated changelog in updates",
     "Match Me strain-finder quiz (Tools)",
     "Grow Journal tab + trademark/legal notices",
     "Dedicated Settings tab (Appearance moved from About)",
