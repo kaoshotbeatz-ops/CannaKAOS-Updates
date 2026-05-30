@@ -1,16 +1,16 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Grow Journal tab + trademark/legal notices",
     "Dedicated Settings tab (Appearance moved from About)",
     "Theming: 5 colorways + Light/Dark/System modes (Appearance in About)",
     "Rename app to LeafLore (drop KAOS); dedicated LeafLore-Updates feed",
     "Dedicated LeafLore-Updates feed + download link",
     "Dedicated LeafLore-Updates feed repo",
     "Fix release.sh PATH so gh is found during publish",
-    "On-device AI engine (model-ready) + full documentation set",
-    "180+ strains, Terpene Explorer, Dosing Calculator (Tools tab)"
+    "On-device AI engine (model-ready) + full documentation set"
   ],
   "downloadURL": "https://github.com/kaoshotbeatz-ops/LeafLore-Updates/releases"
 }
